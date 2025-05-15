@@ -1,0 +1,6 @@
+Flask==2.0.1
+Flask-SQLAlchemy==2.5.1
+SQLAlchemy==1.4.39
+psycopg2-binary==2.9.3
+Werkzeug==2.0.1
+itsdangerous==2.0.1
